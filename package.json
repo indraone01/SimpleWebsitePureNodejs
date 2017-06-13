@@ -1,9 +1,6 @@
 {
     "name": "simplewebsitepurenodejs",
     "version": "0.0.1",
-    "start": {
-        "script": "nodejs ./index.js"
-    },
     "dependencies": {
         "express": "4.14.0",
         "serve-favicon": "^2.4.3"
