@@ -15,10 +15,7 @@
         "test": "echo '\"Error: no test specified\"'",
         "start": "node ./index.js"
     },
-    "repository": {
-        "type": "git",
-        "url": "true"
-    },
+    
     "keywords": [
         "learn",
         "node"
