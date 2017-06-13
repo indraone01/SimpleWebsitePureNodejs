@@ -5,7 +5,7 @@ var favicon = require('serve-favicon');
 var finalhandler = require('finalhandler');
 var path = require('path');
 var contentMap = require('./contentMap');
-console.log(contentMap);
+//console.log(contentMap);
 
 var _favicon = favicon(path.join(__dirname, 'images', 'favicon.ico'));
 
