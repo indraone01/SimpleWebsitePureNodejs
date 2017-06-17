@@ -1,8 +1,9 @@
 {
     "name": "simplewebsitepurenodejs",
-    "version": "1.0.0",
-    "description": "this project elementary basic concept of nodejs",
-    "main": "index.js",
+    "version": "0.0.1",
+    "start": {
+        "script": "node ./index.js"
+    },
     "dependencies": {
         "express": "^4.14.0",
         "nodemon": "^1.11.0",
