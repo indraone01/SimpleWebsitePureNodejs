@@ -17,7 +17,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/indraone01/learnnodejs1.git"
+        "url": "https://github.com/indraone01/SimpleWebsitePureNodejs.git"
     },
     "keywords": [
         "pure",
